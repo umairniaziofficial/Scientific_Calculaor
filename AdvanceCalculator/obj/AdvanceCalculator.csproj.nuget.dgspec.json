@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding\\Virtual Programming\\222672_M_Umair_ScientificCalc\\AdvanceCalculator\\AdvanceCalculator\\AdvanceCalculator.csproj": {}
+    "D:\\Coding\\Virtual Programming\\ScientificCalculator\\Scientific_Calculaor\\AdvanceCalculator\\AdvanceCalculator.csproj": {}
   },
   "projects": {
-    "D:\\Coding\\Virtual Programming\\222672_M_Umair_ScientificCalc\\AdvanceCalculator\\AdvanceCalculator\\AdvanceCalculator.csproj": {
+    "D:\\Coding\\Virtual Programming\\ScientificCalculator\\Scientific_Calculaor\\AdvanceCalculator\\AdvanceCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding\\Virtual Programming\\222672_M_Umair_ScientificCalc\\AdvanceCalculator\\AdvanceCalculator\\AdvanceCalculator.csproj",
+        "projectUniqueName": "D:\\Coding\\Virtual Programming\\ScientificCalculator\\Scientific_Calculaor\\AdvanceCalculator\\AdvanceCalculator.csproj",
         "projectName": "AdvanceCalculator",
-        "projectPath": "D:\\Coding\\Virtual Programming\\222672_M_Umair_ScientificCalc\\AdvanceCalculator\\AdvanceCalculator\\AdvanceCalculator.csproj",
+        "projectPath": "D:\\Coding\\Virtual Programming\\ScientificCalculator\\Scientific_Calculaor\\AdvanceCalculator\\AdvanceCalculator.csproj",
         "packagesPath": "C:\\Users\\Nizzy\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding\\Virtual Programming\\222672_M_Umair_ScientificCalc\\AdvanceCalculator\\AdvanceCalculator\\obj\\",
+        "outputPath": "D:\\Coding\\Virtual Programming\\ScientificCalculator\\Scientific_Calculaor\\AdvanceCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
