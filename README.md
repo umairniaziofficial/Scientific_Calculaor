@@ -21,7 +21,7 @@ Welcome to my open-source Scientific Calculator implemented in C#! This powerful
 ## Screenshots
 
 #### Full Preview 
-![Screenshot 2024-02-24 210221](/assets/Screenshot%202024-02-24%20210221_sfil12w7x.png)
+![Screenshot 2024-02-24 210221](/assets/FullPrview.png)
 
 #### Standard Calculator Image
 ![Screenshot 2024-02-24 210221](/assets/Standard.png)
